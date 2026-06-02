@@ -9,3 +9,8 @@ Long-term project for:
 Goal:
 
 Build an AI-enhanced scheduling system.
+
+week1 process
+
+- setup complete
+- worker model created
